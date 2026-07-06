@@ -9,6 +9,12 @@ Building things in TypeScript and grinding competitive programming in C++.
 - Working on my [portfolio](https://github.com/Kencel/portfolio) — built with TypeScript
 - Solving problems in [compprog](https://github.com/Kencel/compprog) — all things competitive programming
 
+### 📫 Reach me
+- Discord: `ramen.nagi`
+- Website: https://ramennagi.vercel.app
+<!-- add other links here, e.g. -->
+<!-- - Website: https://your-portfolio-url -->
+
 ### 🛠️ Tech
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,8 +30,3 @@ Building things in TypeScript and grinding competitive programming in C++.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-### 📫 Reach me
-- Discord: `ramen.nagi`
-- Website: https://ramennagi.vercel.app
-<!-- add other links here, e.g. -->
-<!-- - Website: https://your-portfolio-url -->
