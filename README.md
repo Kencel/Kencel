@@ -11,8 +11,8 @@ Building things in TypeScript and grinding competitive programming in C++/Python
 
 ### 📫 Reach me
 - Discord: `ramen.nagi`
-- Website: https://ramennagi.vercel.app
-- LinkedIn: https://www.linkedin.com/in/kenaz-celestino-622080363/
+- [Portfolio](https://ramennagi.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/kenaz-celestino-622080363/)
 <!-- add other links here, e.g. -->
 <!-- - Website: https://your-portfolio-url -->
 
