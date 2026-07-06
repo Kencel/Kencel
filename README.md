@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Kenaz
 
-3rd Year CS student @ Ateneo de Manila University. <br><br>
-Building things in TypeScript and grinding competitive programming in C++.
+3rd Year CS student @ AdMU <br><br>
+Building things in TypeScript and grinding competitive programming in C++/Python.
 
 ---
 
@@ -15,7 +15,7 @@ Building things in TypeScript and grinding competitive programming in C++.
 <!-- add other links here, e.g. -->
 <!-- - Website: https://your-portfolio-url -->
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
